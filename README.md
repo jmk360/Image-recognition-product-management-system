@@ -13,8 +13,8 @@
 사용언어 : C++
 
 이용한 오픈소스 및 자료 :
-성별, 연령 예측 : https://sungwookkang.com/1404
-손가락 개수 세기 : https://blog.naver.com/pckbj123/100203338105
+  성별, 연령 예측 : https://sungwookkang.com/1404
+  손가락 개수 세기 : https://blog.naver.com/pckbj123/100203338105
 
 개발환경 : PC: Window10 / Microsoft Visual Studio 2017 / OPENCV 4.3.0
 

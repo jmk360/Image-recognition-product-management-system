@@ -1,6 +1,7 @@
 # Image-recognition-product-management-system
 
 프로젝트명 : 영상인식 상품관리시스템
+
 내용 : 손동작 인터페이스를 통한 상품판매 및 재고관리, 얼굴(성별, 연령)인식을 통한 상품추천
 
 사양:
